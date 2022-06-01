@@ -4,7 +4,7 @@
 	         AnyLogic Project File 
 *************************************************	         
 -->
-<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.7.11.202204111302" AlpVersion="8.7.3">
+<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.7.12.202205250359" AlpVersion="8.7.5">
 <Model>
 	<Id>1651043995090</Id>
 	<Name><![CDATA[Market]]></Name>
@@ -769,8 +769,8 @@
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>true</ShowLabel>
 					<Points>
-						<Point><X>0</X><Y>0.5149999999999864</Y></Point>
-						<Point><X>0</X><Y>70.51499999999999</Y></Point>
+						<Point><X>0</X><Y>0</Y></Point>
+						<Point><X>0</X><Y>70</Y></Point>
 					</Points>
 					<IconOffset>20.0</IconOffset>
 					<Properties Source="1651045131974" Target="1651596577874" Trigger="rate">
@@ -831,8 +831,8 @@
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>true</ShowLabel>
 					<Points>
-						<Point><X>0</X><Y>0.5149999999999864</Y></Point>
-						<Point><X>0</X><Y>70.51499999999999</Y></Point>
+						<Point><X>0</X><Y>0</Y></Point>
+						<Point><X>0</X><Y>70</Y></Point>
 					</Points>
 					<IconOffset>20.0</IconOffset>
 					<Properties Source="1651045131974" Target="1651596577874" Trigger="message">
